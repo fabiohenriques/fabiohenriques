@@ -1,15 +1,11 @@
-- 👋 Hi, my name is Fabio Henriques
-- 🧠 I’m currently learning React
-- 📫 How to reach me: fabiohenriques@pm.me
-
 Hi! My name is Fabio Henriques
 ================================
-
 Full Stack Developer
 --------------------
-
 *   ✉️  You can contact me at [fabiohenriques@pm.me](mailto:fabiohenriques@pm.me)
-*   🧠  I'm learning React### Skills 
+*   🧠  I'm learning React
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
@@ -24,14 +20,12 @@ Full Stack Developer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
-                  
-                <p align="left">
+<p align="left">
+<a href="http://www.instagram.com/fabiohhenriques" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
-                      <a href="http://www.instagram.com/fabiohhenriques" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/fabiohenriques" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.twitter.com/fabiohenriques" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 <!---
