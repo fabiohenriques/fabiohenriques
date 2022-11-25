@@ -1,5 +1,3 @@
-Hi! My name is Fabio Henriques
-================================
 Full Stack Developer
 --------------------
 *   ✉️  You can contact me at [fabiohenriques@pm.me](mailto:fabiohenriques@pm.me)
@@ -24,7 +22,6 @@ Full Stack Developer
                   
 <p align="left">
 <a href="http://www.instagram.com/fabiohhenriques" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
 <a href="https://www.twitter.com/fabiohenriques" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
