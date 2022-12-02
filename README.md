@@ -1,7 +1,6 @@
 Full Stack Developer
 --------------------
 *   ✉️  You can contact me at [fabiohenriques@pm.me](mailto:fabiohenriques@pm.me)
-*   🧠  I'm learning React
 
 ### Skills 
 <p align="left">
